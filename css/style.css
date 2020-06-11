@@ -64,3 +64,22 @@ h1{
     flex-wrap: wrap;
     text-decoration: none;
 }
+@media (max-width: 960px) {
+    .header-blok{
+        flex-wrap: wrap;
+    }
+    .nav-link {
+        flex-wrap: wrap;
+    }
+    .main-container{
+        flex-wrap: wrap;
+    }
+    .left {
+        margin-bottom: 20px;
+    }
+    .container{
+        flex-wrap: wrap;
+    }
+}
+    
+   
