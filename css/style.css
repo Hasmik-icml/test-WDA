@@ -73,6 +73,7 @@ h1{
     }
     .main-container{
         flex-wrap: wrap;
+        margin: auto;
     }
     .left {
         margin-bottom: 20px;
